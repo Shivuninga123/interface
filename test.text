@@ -1,0 +1,1 @@
+inerface is looks like class nut its not class it denoted by using keyword interface and contains only abstract method and static variables,wecannot create an object for interface we can overide methods in interface by implenting by it in anothetr class
